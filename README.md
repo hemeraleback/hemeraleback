@@ -3,7 +3,7 @@ Affilied with [AronkyDev](https://github.com/AronkyDev),
 Students of Computer Science
 
 
-##The languages I know are { 
+## The languages I know are { 
 
 HTML
 
@@ -16,7 +16,7 @@ C++
 }
 
 
-##PC Specs
+## PC Specs
 
 CPU : [17-17000F](https://www.amazon.it/dp/B08TX3MXV5/?coliid=I3M8QB44T1YWUT&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp);
 
