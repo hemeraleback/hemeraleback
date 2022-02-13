@@ -9,7 +9,7 @@ HTML
 
 CSS
 
-NODE.JS [Discord,js](https://discord.js.org/#/)
+NODE.JS [Discord.js](https://discord.js.org/#/)
 
 C++
 
