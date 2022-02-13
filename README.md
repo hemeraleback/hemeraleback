@@ -1,4 +1,4 @@
-Affilied with [AronkyDev](https://github.com/AronkyDev),
+Affilied with [AronkyDev](https://github.com/AronkyDev) and [IsTk0](https://github.com/IsTk0)
 
 Student of Computer Science
 
