@@ -1,6 +1,6 @@
 Affilied with [AronkyDev](https://github.com/AronkyDev),
 
-Students of Computer Science
+Student of Computer Science
 
 
 ## The languages I know are
