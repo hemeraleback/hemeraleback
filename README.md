@@ -3,7 +3,7 @@ Affilied with [AronkyDev](https://github.com/AronkyDev),
 Student of Computer Science
 
 
-## The languages I know are
+## The languages I know
 
 HTML
 
