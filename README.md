@@ -3,7 +3,7 @@ Affilied with [AronkyDev](https://github.com/AronkyDev),
 Students of Computer Science
 
 
-## The languages I know are { 
+## The languages I know are
 
 HTML
 
@@ -12,9 +12,6 @@ CSS
 NODE.JS [Discord,js](https://discord.js.org/#/)
 
 C++
-
-}
-
 
 ## PC Specs
 
