@@ -25,4 +25,6 @@ SSD : [M.2 500 GB 2400 MB/S](https://www.amazon.it/dp/B086BGWNY8/?coliid=I2GIIJZ
 
 SSD : [SATA 480 GB 500 MB/S](https://www.amazon.it/dp/B01C2JJB0G/?coliid=I2ER03Z3SN5EBZ&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp); 
 
+<center>
 HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp); 
+</center>
