@@ -19,6 +19,7 @@ Affilied with [AronkyDev](https://github.com/AronkyDev) and [IsTk0](https://gith
 
 Im an Italian Student of Computer Sience, In past I've made some project whit my Friends, and I would upload them all on Github, Im also interested about PC Building and about mechanics and electronics
 
+
 <!--
 <details>
 <summary>Other Things</summary>
@@ -58,9 +59,9 @@ HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13Y
 
 <details>
 <summary>Github Stats</summary>
-<br>
 
-![Hemeraleback Stats](https://github-readme-stats.vercel.app/api?username=hemeraleback&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemeraleback&layout=compact&theme=radical)](https://github.com/hemeraleback)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hemeraleback&show_icons=true) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemeraleback&theme=blue-green)
+
 </details>
