@@ -17,8 +17,9 @@ Affilied with [AronkyDev](https://github.com/AronkyDev), [IsTk0](https://github.
 
 Im an Italian Student of Computer Sience, In past I've made some project whit my Friends, and I would upload them all on Github, Im also interested about PC Building and about mechanics and electronics
 
-
+<details>
 <summary> 🖥️ PC Specs</summary>
+
 
 CPU : [17-17000F](https://www.amazon.it/dp/B08TX3MXV5/?coliid=I3M8QB44T1YWUT&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp);
 
