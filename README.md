@@ -40,7 +40,6 @@ HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13Y
 
 
 ![Hemeraleback Github Stats](https://github-readme-stats.vercel.app/api?username=hemeraleback&show_icons=true&theme=dark)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemeraleback&layout=compact&theme=dark)](https://github.com/hemeraleback)
 
 </details>
