@@ -41,6 +41,6 @@ HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13Y
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hemeraleback&show_icons=true) 
 <br>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemeraleback&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
