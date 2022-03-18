@@ -17,7 +17,7 @@ Affilied with [AronkyDev](https://github.com/AronkyDev), [IsTk0](https://github.
 
 ## 🤔 Who am I?
 
-Im an Italian Student of Computer Sience, In past I've made some project whit my Friends, and I would upload them all on Github, Im also interested about PC Building and about mechanics and electronics
+Im an Italian Student of Computer Sience, In the past I've made some project with my friends, and I will upload them all on Github, Im also interested about PC Building and about mechanics and electronics
 
 <details>
 <summary> 🖥️ PC Specs</summary>
