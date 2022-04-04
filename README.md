@@ -1,7 +1,7 @@
 Affilied with [AronkyDev](https://github.com/AronkyDev), [IsTk0](https://github.com/IsTk0), [RedCougarZ](https://github.com/RedCougarZ) and [M4croxx](https://github.com/m4croxx)
 
 
-## 💻 The languages I know
+## 💻 The languages I work with
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 
@@ -14,6 +14,10 @@ Affilied with [AronkyDev](https://github.com/AronkyDev), [IsTk0](https://github.
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 
 ![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=)
+
+![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Basic&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
+
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 ## 🤔 Who am I?
 
