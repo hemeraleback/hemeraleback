@@ -22,7 +22,7 @@ Affilied with [AronkyDev](https://github.com/AronkyDev), [IsTk0](https://github.
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=">
 
 <!-- VisualBasic -->
-<a target="_blank" href="https://github.com/hemeraleback/VisualBasic"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Basic&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label="/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://github.com/hemeraleback/VisualBasic"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label="/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- Python -->
 <a target="_blank" href="https://github.com/hemeraleback/Python"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/></a>&nbsp;&nbsp;&nbsp;&nbsp;
