@@ -36,7 +36,7 @@ Im an Italian Student of Computer Sience, In the past I've made some project wit
 <summary> 🖥️ PC Specs</summary>
 
 
-CPU : [17-17000F](https://www.amazon.it/dp/B08TX3MXV5/?coliid=I3M8QB44T1YWUT&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp)
+CPU : [i7-17000F](https://www.amazon.it/dp/B08TX3MXV5/?coliid=I3M8QB44T1YWUT&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp)
 
 GPU : HP RTX 3060 12 GB VRAM
 
