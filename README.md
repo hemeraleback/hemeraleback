@@ -30,7 +30,7 @@ Im an Italian Student of Computer Sience also interested about PC Building, grap
 
 ## 📄 Projects
 
-• [M4croxx peripherals](https://m4croxx.github.io) <br>
+• [M4croxx Peripherals](https://m4croxx.github.io) <br>
 Website that display all the Peripherials of [M4croxx](https://github.com)
 
 • [M4crobot](https://github.com/hemeraleback/m4crobot) <br>
