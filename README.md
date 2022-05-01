@@ -28,7 +28,7 @@ Affilied with [M4croxx](https://github.com/m4croxx)
 Im an Italian Student of Computer Sience also interested about PC Building, graphics, mechanics and about electronics
 
 
-## 📄 Project
+## 📄 Projects
 
 • [M4croxx peripherals](https://m4croxx.github.io) <br>
 Website that display all the Peripherials of [M4croxx](https://github.com)
