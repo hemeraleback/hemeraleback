@@ -27,6 +27,19 @@ Affilied with [M4croxx](https://github.com/m4croxx)
 
 Im an Italian Student of Computer Sience also interested about PC Building, graphics, mechanics and about electronics
 
+
+## 📄 Project
+
+• [M4croxx peripherals](https://m4croxx.github.io) <br>
+Website that display all the Peripherials of [M4croxx](https://github.com)
+
+• [M4crobot](https://github.com/hemeraleback/m4crobot) <br>
+The Discord Bot made in [Discord.JS](https://discord.js.org/), that manages the [M4croxx](https://github.com) official [Discord Server](https://discord.gg/2H8CXeJjFF)
+
+• [Guidaldi](https://github.com/hemeraleback/webbrowser) <br>
+My Custom Web Browser Home Page made in HTML, CSS and JS
+
+
 <details>
 <summary> 🖥️ PC Specs</summary>
 
