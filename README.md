@@ -3,29 +3,24 @@ Affilied with [M4croxx](https://github.com/m4croxx)
 
 ## 💻 The languages I work with
 
+<p align="left">
 <!-- HTML -->
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
-
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50">
 <!-- CSS -->
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
-
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50">
 <!-- JavaScript -->
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
-
+<img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width="50" height="50">
 <!-- Node.JS -->
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=">
-
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50">
 <!-- C++ -->
-<a target="_blank" href="https://github.com/hemeraleback/Cpp"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label="/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a target="_blank" href="https://github.com/hemeraleback/Cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" width="45" height="50"/></a>
 <!-- R -->
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=">
-
+<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/69/formation-langage-r.png" width="50" height="40"> 
 <!-- VisualBasic -->
-<a target="_blank" href="https://github.com/hemeraleback/VisualBasic"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label="/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a target="_blank" href="https://github.com/hemeraleback/VisualBasic"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" width="50" height="50"/></a>
 <!-- Python -->
-<a target="_blank" href="https://github.com/hemeraleback/Python"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://github.com/hemeraleback/Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50"/></a>
+</p>
 
 
 ## 🤔 Who am I?
