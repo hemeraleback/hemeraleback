@@ -8,7 +8,7 @@ Im an Italian Student of Computer Sience also interested about PC Building, grap
 ## 📄 Projects
 
 • [M4croxx Peripherals](https://m4croxx.github.io) <br>
-Website that display all the Peripherials of [mM4croxx](https://github.com/m4croxx)
+Website that display all the Peripherials of [M4croxx](https://github.com/m4croxx)
 
 • [M4crobot](https://github.com/hemeraleback/m4crobot) <br>
 The Discord Bot made in [Discord.JS](https://discord.js.org/), that manages the [M4croxx](https://github.com) official [Discord Server](https://discord.gg/2H8CXeJjFF)
