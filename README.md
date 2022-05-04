@@ -13,7 +13,7 @@ Website that display all the Peripherials of [M4croxx](https://github.com/m4crox
 • [M4crobot](https://github.com/hemeraleback/m4crobot) <br>
 The Discord Bot made in [Discord.JS](https://discord.js.org/), that manages the [M4croxx](https://github.com) official [Discord Server](https://discord.gg/2H8CXeJjFF)
 
-• [Guidaldi](https://github.com/hemeraleback/webbrowser) <br>
+• [Guidaldi](https://github.com/hemeraleback/Guidaldi) <br>
 My Custom Web Browser Home Page made in HTML, CSS and JS
 
 • [YGN](https://rightofficial.github.io/YGN) <br>
