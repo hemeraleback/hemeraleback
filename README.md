@@ -2,7 +2,7 @@ Affilied with [M4croxx](https://github.com/m4croxx)
 
 ## 🤔 Who am I?
 
-Im an Italian Student of Computer Sience also interested about PC Building, graphics, mechanics and about electronics
+Im an Italian Student of Computer Sience also interested about PC Building, graphics and electronics
 
 
 ## 📄 Projects
