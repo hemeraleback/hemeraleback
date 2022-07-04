@@ -16,9 +16,6 @@ The Discord Bot made in [Discord.JS](https://discord.js.org/), that manages the 
 • [Guidaldi](https://github.com/hemeraleback/Guidaldi) <br>
 My Custom Web Browser Home Page made in HTML, CSS and JS
 
-• [YGN](https://rightofficial.github.io/YGN) <br>
-Website that gives free graphics for Streamer and Youtuber
-
 <details>
 <summary> 🖥️ PC Specs</summary>
 
