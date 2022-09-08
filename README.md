@@ -58,4 +58,6 @@ HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13Y
 <a target="_blank" href="https://github.com/hemeraleback/VisualBasic"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" width="50" height="50"/></a>
 <!-- Python -->
 <a target="_blank" href="https://github.com/hemeraleback/Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50"/></a>
+<!-- Java -->
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png?w=360" width="50" height="50"> 
 </p>
