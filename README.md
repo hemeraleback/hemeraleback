@@ -2,7 +2,7 @@ Affilied with [M4croxx](https://github.com/m4croxx)
 
 ## 🤔 Who am I?
 
-Im an Italian Student of Computer Sience also interested about PC Building, graphics and electronics, I know a lot of programming launguages but my main are HTML, JS, C++ and Python
+Im an Italian Student of Computer Science also interested about PC Building, graphics and electronics, I know a lot of programming launguages but my main are HTML, JS, C++ and Python
 
 
 ## 📄 Projects
