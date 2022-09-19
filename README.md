@@ -52,10 +52,6 @@ HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13Y
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50">
 <!-- C++ -->
 <a target="_blank" href="https://github.com/hemeraleback/Cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" width="45" height="50"/></a>
-<!-- R -->
-<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/69/formation-langage-r.png" width="50" height="40"> 
-<!-- VisualBasic -->
-<a target="_blank" href="https://github.com/hemeraleback/VisualBasic"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" width="50" height="50"/></a>
 <!-- Python -->
 <a target="_blank" href="https://github.com/hemeraleback/Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50"/></a>
 <!-- Java -->
