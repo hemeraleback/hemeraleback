@@ -2,16 +2,16 @@ Affilied with [M4croxx](https://github.com/m4croxx)
 
 ## 🤔 Who am I?
 
-Im an Italian Student of Computer Science also interested about PC Building, graphics and electronics, I know a lot of programming launguages but my main are HTML, JS, C++ and Python
+Im an Italian Student of Computer Science, that mostly work on website with HTML, CSS and JS, but also know something about some other languages.
 
 
 ## 📄 Projects
 
 • [M4croxx Website](https://m4croxx.github.io) <br>
-A Website still under development made for [M4croxx](https://github.com/m4croxx), for displaing all his peripherals and for showing to the world who he is
+A Website made for an italian emerging rapper named [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w)
 
 • [M4crobot](https://github.com/hemeraleback/m4crobot) <br>
-A Discord Bot made in [Discord.JS](https://discord.js.org/), that used to manage the old [M4croxx](https://github.com) official [Discord Server](https://discord.gg/2H8CXeJjFF)
+A Discord Bot made in [Discord.JS](https://discord.js.org/), that used to manage the old [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w) official Discord Server
 
 • [Guidaldi](https://github.com/hemeraleback/Guidaldi) <br>
 My Custom Web Browser Home Page made in HTML, CSS and JS
@@ -46,8 +46,8 @@ HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13Y
 <a href="https://github.com/hemeraleback"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50"></a>
 <!-- CSS -->
 <a href="https://github.com/hemeraleback"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50"></a>
-<!-- JavaScript -->
-<a href="https://github.com/hemeraleback"><img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width="50" height="50"></a>
+<!-- JavaScript 
+<a href="https://github.com/hemeraleback"><img src="" width="50" height="50"></a> -->
 <!-- Node.JS -->
 <a href="https://github.com/hemeraleback"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50"></a>
 <!-- C++ -->
