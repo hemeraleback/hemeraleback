@@ -26,8 +26,8 @@ Lately my focus has shifted toward building products end-to-end: from idea to de
 
 ## 📄 Core Projects
 
-**[VoicePortal](https://github.com/hemerale/PortaleMessaggiVocali)** <br>
-Web platform for recording and sending voice messages directly via email. Works on desktop and mobile, with automatic audio upload to Cloudinary and secure delivery via EmailJS.
+**[VoicePortal](https://github.com/hemerale/VoicePortal)** <br>
+Web platform for recording voice messages straight from the browser, backed by Supabase (Postgres + Storage + Edge Functions). Includes an admin panel to browse every message with its timestamp and a password-protected "clear database" action.
 
 **[m4crobot](https://github.com/hemerale/m4crobot)** <br>
 Discord bot built with [Discord.js](https://discord.js.org/) to manage the official [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w) Discord server — automated moderation, custom commands, and interactive community features.
