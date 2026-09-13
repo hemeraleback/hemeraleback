@@ -8,7 +8,7 @@ Full-Stack Developer based in Sicily, Italy. I build web systems that solve real
 
 ## 🤔 About
 
-I'm an Italian Computer Science student and freelance developer. I work across the full stack — front-end with HTML, CSS and JavaScript, back-end with Node.js, PHP, SQL and Python — and I have hands-on experience with general-purpose languages like C++, Java and Python, applying object-oriented principles where they fit.
+I'm an Italian Computer Science student and freelance developer. I work across the full stack (front-end with HTML, CSS and JavaScript, back-end with Node.js, PHP, SQL and Python) and I have hands-on experience with general-purpose languages like C++, Java and Python, applying object-oriented principles where they fit.
 
 Lately my focus has shifted toward building products end-to-end: from idea to deployment, with AI woven into the workflow rather than added on top.
 
